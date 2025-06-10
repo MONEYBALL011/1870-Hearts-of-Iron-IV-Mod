@@ -123,6 +123,23 @@ bookmarks = {
                 ITA_the_war_with_austria
             }
         }
+		
+		 "PAP"={
+		    minor = yes
+            history = "PAP_1866_DESC"
+            ideology = neutrality
+            available = { always = yes }
+            ideas = {
+                french_garrison
+                PAP_undereducated_populace
+                PAP_catholic_traditions
+            }
+            focuses = {
+                PAP_austria
+                PAP_maintain_secular_power
+                PAP_disunite_italy
+            }
+        }
 
 		#AFG={
 			#This is for when I put afghanistan

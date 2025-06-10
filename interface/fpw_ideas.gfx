@@ -280,6 +280,16 @@ spriteTypes = {
 		name = "GFX_idea_AFG_muhammad_kateb"
 		texturefile = "gfx/interface/ideas/AFG/idea_AFG_muhammad_kateb.png"
 	}
-	
-	
+	SpriteType = {
+		name = "GFX_idea_PAP_undereducated_populace"
+		texturefile = "gfx/interface/ideas/stupid_people.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_PAP_catholic_traditions"
+		texturefile = "gfx/interface/ideas/catholicism.png"
+	}
+	SpriteType = {
+		name = "GFX_idea_PAP_french_garrison"
+		texturefile = "gfx/interface/ideas/french_garrison.png"
+	}
 }
